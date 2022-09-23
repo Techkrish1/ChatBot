@@ -1,0 +1,32 @@
+
+body
+{
+	background-image: url("https://previews.123rf.com/images/polegaev/polegaev1904/polegaev190400021/122511602-chatbot-or-artificial-intelligence-network-concept-in-isometric-vector-illustration-neuronet-or-ai-t.jpg");
+}
+
+#ResponseText
+{
+	color: rgb(42,97,196);
+	text-align: center;
+	cursor: pointer;
+}
+
+
+
+
+ #InputBox
+{
+	background-color: rgb(255,255,255);
+	color: rgb(42,97,196);
+	text-align:center;
+	font-size: 27px;
+	border: none;
+	border-radius: 50px;
+	outline: none;
+	width: 500px;
+	height: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+} 
